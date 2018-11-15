@@ -1,0 +1,9 @@
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\bin\Debug\capaData.dll
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\bin\Debug\capaData.pdb
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\obj\Debug\capaNegocio.csprojAssemblyReference.cache
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\mario\Desktop\UI_LoginPage_3\capaNegocio\obj\Debug\capaNegocio.pdb

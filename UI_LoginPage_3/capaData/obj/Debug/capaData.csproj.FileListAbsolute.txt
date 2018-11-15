@@ -1,0 +1,7 @@
+C:\Users\mario\Desktop\UI_LoginPage_3\capaData\bin\Debug\capaData.dll
+C:\Users\mario\Desktop\UI_LoginPage_3\capaData\bin\Debug\capaData.pdb
+C:\Users\mario\Desktop\UI_LoginPage_3\capaData\obj\Debug\capaData.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\UI_LoginPage_3\capaData\obj\Debug\capaData.csproj.CopyComplete
+C:\Users\mario\Desktop\UI_LoginPage_3\capaData\obj\Debug\capaData.dll
+C:\Users\mario\Desktop\UI_LoginPage_3\capaData\obj\Debug\capaData.pdb
+C:\Users\mario\Desktop\UI_LoginPage_3\capaData\obj\Debug\capaData.csprojAssemblyReference.cache
